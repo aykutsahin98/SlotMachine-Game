@@ -6,3 +6,15 @@
 ## Game Canvas Screenshot:
 <img src="https://user-images.githubusercontent.com/36954450/40233349-4503f7b6-5aab-11e8-88c9-90c9910d7752.PNG" width="650" height="400">
 
+**Programming Language:**
+```
+• JAVA
+```
+
+**Devolopment Tools:**
+```
+• JAVA SDK
+
+• Netbeans IDE
+```
+
